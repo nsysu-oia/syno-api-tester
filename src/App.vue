@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Tester msg="Synology API Tester"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Tester from './components/Tester.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Tester
   }
 }
 </script>

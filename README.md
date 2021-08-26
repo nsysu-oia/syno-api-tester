@@ -1,5 +1,7 @@
 # syno-api-tester
 
+Turn off the CORS restriction in your browser. Google => `turn off cors in` + `Safari|Chrome|Firefox|YourBrowser`.
+
 ## Project setup
 ```
 yarn install
